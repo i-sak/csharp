@@ -1,0 +1,12 @@
+★★
+[CodeProject]
+https://www.codeproject.com/
+
+https://www.codeproject.com/Articles/31105/A-ComboBox-with-a-CheckedListBox-as-a-Dropdown
+https://www.codeproject.com/Articles/21085/CheckBox-ComboBox-Extending-the-ComboBox-Class-and
+https://www.codeproject.com/Articles/18929/An-OwnerDraw-ComboBox-with-CheckBoxes-in-the-Drop
+https://stackoverflow.com/questions/5960455/how-to-add-check-box-inside-combobox-in-c-sharp
+https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=ko
+https://devguide.remotemonster.com/videocallplatform/videocall-app-examples
+https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/overview
+https://aihub.or.kr/aidata/7968
